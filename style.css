@@ -29,12 +29,12 @@ span{
 }
 
 #container{
-    
+    padding: 10px;
 background-color: aqua;
     color:black;
      margin: auto;
      width: 50%;
-     height: 70vh;
+     height: 80vh;
      box-shadow: 0 0 10px green;
     }
 
